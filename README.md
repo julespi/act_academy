@@ -1,1 +1,1 @@
-# act_academy
+# actividad 2 de Java Academy
